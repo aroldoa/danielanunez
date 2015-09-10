@@ -11,12 +11,21 @@ Text Domain: serious-biz
 Tags:
 
 */
-body{font-family: 'Open Sans', sans-serif; background-color:#eef1f2;}
+body{font-family: 'Open Sans', sans-serif; background-color:#ffffff;}
 .showcase{}
+.entry-content{margin:0px;}
+.center{margin-left:auto; margin-right: auto; margin: 0 auto; text-align: center;}
 .site-header{background-color:#fff; height:60px; padding:12px 0px 10px 0px;}
 .site-branding{margin-top:8px;}
 ul#primary-menu {margin-top:8px;}
 ul#primary-menu li{padding:0px 20px; color:#222;}
 ul#primary-menu li a{color:#222;}
-.site-footer{background-color:#2e2f37; padding:160px 0px;}
-.copyright{background-color:#3c3f51; padding:18px 0px;}
+.site-footer{background-color:#52266b; padding:160px 0px;}
+.copyright{background-color:#fff; padding:18px 0px;}
+#aboutus{background-image: url('img/about-back.jpg'); background-position: top; height: 942px; padding:140px 0px;}
+h1{font-weight:lighter; color:#fff; margin-bottom:50px; font-size: 42px; background-image: url('img/header-border.png'); background-repeat: no-repeat; background-position: center; line-height: 130px;}
+#aboutus p{color:#fff; font-size: 18px; line-height: 36px;}
+#services{background-color:#fff; height: 942px; padding:140px 0px;}
+#clients{background-color:#a55c63; height: 942px; padding:140px 0px;}
+#ceo{background-color:#e1e1e1; height: 942px; padding:140px 0px;}
+#contact{background-color:#2e2f37; height: 942px; padding:140px 0px;}

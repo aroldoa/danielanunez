@@ -25,11 +25,11 @@
 <div class="row">
 	
 	<header id="masthead" class="site-header" role="banner">
-		<div class="site-branding col-md-8">
+		<div class="site-branding col-md-7">
 			Logo Goes Here
 		</div><!-- .site-branding -->
 		
-		<div class="col-md-4">
+		<div class="col-md-5">
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
 		</nav><!-- #site-navigation -->
