@@ -10,7 +10,7 @@
 ?>
 
 <div class="showcase row">
-	asdfasdf
+	 <?php echo do_shortcode('[rev_slider alias="home"]'); ?>  
 </div>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
