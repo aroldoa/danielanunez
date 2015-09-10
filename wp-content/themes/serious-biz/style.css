@@ -1,0 +1,22 @@
+/*
+Theme Name: Serious-Biz
+Theme URI: http://primomotif.com/
+Author: Primo Motif
+Author URI: http://primomotif.com/
+Description: Custom All-inclusive Small Business Website Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: serious-biz
+Tags:
+
+*/
+body{font-family: 'Open Sans', sans-serif; background-color:#eef1f2;}
+.showcase{}
+.site-header{background-color:#fff; height:60px; padding:12px 0px 10px 0px;}
+.site-branding{margin-top:8px;}
+ul#primary-menu {margin-top:8px;}
+ul#primary-menu li{padding:0px 20px; color:#222;}
+ul#primary-menu li a{color:#222;}
+.site-footer{background-color:#2e2f37; padding:160px 0px;}
+.copyright{background-color:#3c3f51; padding:18px 0px;}
