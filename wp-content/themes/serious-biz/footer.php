@@ -21,7 +21,9 @@
 </div>
 </div><!-- #page -->
 <div class="copyright">
+    <div class="container">
 	copyright &copy; <?php echo date('Y'); ?> Small Business Theme, All Rights Reserved. 
+    </div>
 </div>
 
 <?php wp_footer(); ?>
